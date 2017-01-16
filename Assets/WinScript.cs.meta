@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 042859435989fc240913f66bd19616b4
+timeCreated: 1476876250
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameWinCanvas: {fileID: 121846, guid: f48757f9fac636d41b1bea769850980e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

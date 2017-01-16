@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 80aaba3fcac0ef3428adc4c1730c04ad
+timeCreated: 1457424743
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - horizontalWall: {instanceID: 0}
+  - verticalWall: {instanceID: 0}
+  - corner: {instanceID: 0}
+  - Ball: {instanceID: 0}
+  - Goal1: {fileID: 192626, guid: 6ac90e690b7e79c4e8e320b1cfde0807, type: 2}
+  - Goal2: {fileID: 192626, guid: 6ac90e690b7e79c4e8e320b1cfde0807, type: 2}
+  - floor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
