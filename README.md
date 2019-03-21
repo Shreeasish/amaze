@@ -1,4 +1,4 @@
-## AMazze
+## AMaze
 # A prototype mobile game
 The objective of the game is to move the glowing spheres from their corners of the level to the opposing corner.
 
